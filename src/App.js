@@ -190,7 +190,7 @@ const TypingSpeedApp = () => {
           </div>
           <div className="mt-4 flex space-x-4">
             <Button onClick={skipToNextSentence} className="flex items-center">
-              <SkipForward className="mr-2 h-4 w-4" /> Skip to Next Sentence
+              <SkipForward className="mr-2 h-4 w-4" /> Skip to Next Sentence and Enter Practice Mode
             </Button>
             {practiceMode && (
               <Button onClick={resetGame} className="flex items-center">
