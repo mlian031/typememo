@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/typememo/static/css/main.730b96b3.css",
-    "main.js": "/typememo/static/js/main.0c83ca6e.js",
+    "main.js": "/typememo/static/js/main.30cb162a.js",
     "index.html": "/typememo/index.html",
     "main.730b96b3.css.map": "/typememo/static/css/main.730b96b3.css.map",
-    "main.0c83ca6e.js.map": "/typememo/static/js/main.0c83ca6e.js.map"
+    "main.30cb162a.js.map": "/typememo/static/js/main.30cb162a.js.map"
   },
   "entrypoints": [
     "static/css/main.730b96b3.css",
-    "static/js/main.0c83ca6e.js"
+    "static/js/main.30cb162a.js"
   ]
 }
